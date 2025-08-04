@@ -31,10 +31,4 @@ I'm a passionate Computer Science student with hands-on experience in building m
 
 ---
 
-### 📈 GitHub Stats
-
-![Saleha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saleha198&show_icons=true&theme=default)
-
----
-
 > *“Code is not just code, it's art in motion.”* 🎨
